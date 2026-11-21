@@ -22,8 +22,8 @@ Completed cybersecurity internship and training covering:
 
 **Certificates:**
 
-- [Internship Completion Letter](https://github.com/Jagadish-Bangera/Certifications/blob/main/Cybersecurity/EyeQ%20Internship/Jagadish%20Bangera%20Internship%20Completion%20Certificate.pdf)
-- [Internship Program Certificate](https://github.com/Jagadish-Bangera/Certifications/blob/main/Cybersecurity/EyeQ%20Internship/Jagadish%20Bangera%20Internship%20complition.pdf)
+- [Internship Completion Letter](https://github.com/Jagadish-Bangera/Certifications/blob/main/Cybersecurity/EyeQ%20Internship/Jagadish%20Bangera%20Internship%20complition.pdf)
+- [Internship Program Certificate](https://github.com/Jagadish-Bangera/Certifications/blob/main/Cybersecurity/EyeQ%20Internship/Jagadish%20Bangera%20Internship%20Completion%20Certificate.pdf)
 - [Cybersecurity Training Certificate](https://github.com/Jagadish-Bangera/Certifications/blob/main/Cybersecurity/EyeQ%20Internship/Jagadish%20Bangera%20Training.pdf)
 
 ### Cisco Networking Academy
